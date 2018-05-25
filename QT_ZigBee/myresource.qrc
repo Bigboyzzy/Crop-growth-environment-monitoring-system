@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src_img/hasky.jpg</file>
+        <file>src_img/login.jpg</file>
+        <file>src_img/left.png</file>
+        <file>src_img/right.png</file>
+        <file>src_img/p_right.png</file>
+        <file>src_img/p_left.png</file>
+        <file>src_img/new_p_right.png</file>
+        <file>src_img/g_left.png</file>
+        <file>src_img/g_right.png</file>
+        <file>src_img/r_left.png</file>
+        <file>src_img/r_right.png</file>
+    </qresource>
+</RCC>
